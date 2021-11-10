@@ -1,6 +1,6 @@
 # Инструкция по развертыванию
 ```
-cd apps
+cd doczilla_test_task
 pip install -r requirements.txt
 python manage.py runserver
 ```
